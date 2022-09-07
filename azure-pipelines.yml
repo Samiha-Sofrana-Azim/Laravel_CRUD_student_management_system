@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  local
+  'windows-latest'
 
 variables:
   phpVersion: 7.2
